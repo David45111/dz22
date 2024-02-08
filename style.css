@@ -1,0 +1,43 @@
+
+html{min-width: 1220px;}
+
+
+body{
+
+    font-family: 'Roboto Mono', monospace;
+    background: rgb(216, 227, 216);
+}
+h1{
+    font-size: 70px;
+color: rgba(44, 44, 224, 0.74);}
+    
+h3{
+font-size: 30px;
+text-align: center;
+color: rgb(236, 164, 21);
+}
+
+h2{
+    font-size: 50px;
+    color: rgb(16, 217, 224);
+}
+
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+p{
+    text-align:center;
+    font-size: 18px;
+    margin-left: auto;
+    margin-right:auto ;
+    padding-left: 28pc;
+    padding-right: 28pc;
+
+
+
+  
+}
